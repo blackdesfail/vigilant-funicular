@@ -1,0 +1,41 @@
+[00:45:55] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[00:45:57] [ServerMain/INFO]: Loaded 1461 recipes
+[00:45:57] [ServerMain/INFO]: Loaded 1574 advancements
+[00:45:57] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[00:45:57] [Server thread/INFO]: Loading properties
+[00:45:57] [Server thread/INFO]: Default game type: SURVIVAL
+[00:45:57] [Server thread/INFO]: Generating keypair
+[00:45:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:45:57] [Server thread/INFO]: Using epoll channel type
+[00:45:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:45:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:45:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:45:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:45:57] [Server thread/INFO]: Preparing level "world"
+[00:45:58] [Server thread/INFO]: Loading 0 persistent chunks...
+[00:45:58] [Server thread/INFO]: Preparing spawn area: 100%
+[00:45:58] [Server thread/INFO]: Time elapsed: 13 ms
+[00:45:58] [Server thread/INFO]: Done (0.308s)! For help, type "help"
+[00:46:58] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:00:00] [Server thread/INFO]: KioikIluv[/127.67.147.37:52713] logged in with entity id 94 at (212.40295769737807, 64.0, -3214.177543789329)
+[01:00:00] [Server thread/INFO]: KioikIluv joined the game
+[01:06:02] [Server thread/INFO]: blackdesfail[/127.195.151.45:38265] logged in with entity id 1957 at (-1857.7029461174461, 64.0, 333.34946565668054)
+[01:06:02] [Server thread/INFO]: blackdesfail joined the game
+[01:06:24] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=201, y=63, z=-3171} ja{x=200, y=62, z=-3171}
+[01:07:53] [Server thread/INFO]: [Not Secure] <blackdesfail> zzzz
+[01:09:24] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=231, y=63, z=-3214} ja{x=232, y=62, z=-3212}
+[01:09:24] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=231, y=63, z=-3214} ja{x=232, y=62, z=-3212}
+[01:23:23] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=199, y=64, z=-3232} ja{x=197, y=62, z=-3231}
+[01:34:22] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=194, y=63, z=-3210} ja{x=195, y=62, z=-3210}
+[01:39:54] [Server thread/INFO]: [Not Secure] <blackdesfail> zzzzzz
+[01:40:20] [Server thread/INFO]: [Not Secure] <blackdesfail> zzzzzz
+[01:43:33] [Server thread/INFO]: KioikIluv lost connection: Timed out
+[01:43:33] [Server thread/INFO]: KioikIluv left the game
+[01:43:33] [Server thread/WARN]: handleDisconnection() called twice
+[01:43:45] [Server thread/INFO]: KioikIluv[/127.67.147.37:58301] logged in with entity id 21985 at (242.48207611257945, 63.0, -3250.684313867092)
+[01:43:45] [Server thread/INFO]: KioikIluv joined the game
+[01:44:38] [Server thread/INFO]: [Not Secure] * blackdesfail asusta
+[01:49:50] [Server thread/INFO]: KioikIluv lost connection: Disconnected
+[01:49:50] [Server thread/INFO]: KioikIluv left the game
+[01:50:04] [Server thread/INFO]: KioikIluv[/127.67.147.37:55333] logged in with entity id 23608 at (242.96711054876414, 63.49520087700592, -3171.48131629559)
+[01:50:04] [Server thread/INFO]: KioikIluv joined the game
